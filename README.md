@@ -8,3 +8,6 @@ http://adf.ly/1iTHGl
 
 Batch (Windows):
 http://adf.ly/1iTJKh
+
+Both bash and batch:
+http://adf.ly/1iUW7l
